@@ -5,8 +5,14 @@ Ich bin Schüler an der **HTL Anichstraße** in Innsbruck und ein begeisterter *
 Ob mit Python, C oder auf dem ESP32 – ich tüftle gerne an kleinen und größeren Projekten, vor allem im Schulkontext.
 
 🌱 **Aktuell arbeite ich an:** Schulprojekten, die Theorie mit echter Technik verbinden.  
-💡 **Technologien, mit denen ich gerne arbeite:**  
-&nbsp;&nbsp;&nbsp;&nbsp;🧠 Python &nbsp;&nbsp;&nbsp;&nbsp;⚙️ Arduino / ESP32 &nbsp;&nbsp;&nbsp;&nbsp;💾 C  
+## 🛠️ Languages and Tools
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,arduino,raspberrypi,vscode,github" />
+</p>
+
 
 ---
 
