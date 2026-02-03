@@ -20,12 +20,12 @@ Entwicklung von Schulprojekten, die theoretisches Wissen in praxisnahe, funktion
 ---
 
 ## 📊 GitHub Stats
-
-<div align="center">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=ValleST07&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en&cache_seconds=3600" alt="ValleST07's GitHub Stats" />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ValleST07&show_icons=true&theme=radical)
+ <!--<div align="center">
+ <img width="390" src="https://github-readme-stats.vercel.app/api?username=ValleST07&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en&cache_seconds=3600" alt="ValleST07's GitHub Stats" />
   <br>
   <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=ValleST07&theme=transparent&layout=donut&hide=css,gcode&langs_count=8&border_radius=10&show_icons=true&locale=en&cache_seconds=3600" alt="ValleST07's Most Used Languages" />
-</div>
+</div>-->
 
 ---
 
